@@ -2,6 +2,8 @@
 <p align='center'>
 
 
+  
+  
 </p>
 <div size='20px'> Hey there! Welcome to my GitHub, feel free to check out my repositories. 
 </div>  
@@ -45,7 +47,16 @@
   ##
  
 <div> 
+  <div align="center">
+  <a href="https://github.com/Rorschach616">
+  <img height="150px" src="https://github-readme-stats.vercel.app/api?username=Rorschach616&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+</div>  
+  </div>
+  
+  ##
  
+<div> 
+  
  ![Snake animation](https://github.com/Rorschach616/Rorschach616/blob/output/github-contribution-grid-snake.svg)
  
 </div>
