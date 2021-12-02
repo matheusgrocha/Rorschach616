@@ -9,7 +9,7 @@
 </p>
 
 
-<img width = 100px align="right" src="https://static.wikia.nocookie.net/minecraft_gamepedia/images/e/ed/Enchanted_Golden_Apple_JE2_BE2.gif/revision/latest/smart/width/250/height/250?cb=20200430025309"/>
+<img width = 500px align="right" src="https://c.tenor.com/nXmd4P2VTM4AAAAi/work.gif"/>
 
 - 🤖 Technology student.
 
