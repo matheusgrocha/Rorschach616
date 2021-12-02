@@ -1,5 +1,5 @@
 <a href="#">
-<h1> Greetings developer <img src = "https://c.tenor.com/Uq_-tDUQlJkAAAAi/hot-beverage-joypixels.gif" width = 75px> </h1>
+<h1> Greetings developer </h1>
 </a>
 
 <div size='20px'> Hey there! Welcome to my GitHub, feel free to check out my repositories. 
