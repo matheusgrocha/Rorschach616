@@ -1,6 +1,7 @@
+<a href="#">
 <h1> Greetings developer <img src = "https://c.tenor.com/Uq_-tDUQlJkAAAAi/hot-beverage-joypixels.gif" width = 75px> </h1>
 <p align='center'>
-
+</a>
 
   
   
@@ -10,8 +11,9 @@
 
 </p>
 
-
-<img align="right" href="#" width = 200px src="https://media2.giphy.com/media/Y06jfuK1Bni5PkZwS2/giphy.gif?cid=ecf05e47shlo98va6as8vfj774wlrfo2sl704kckp105v95y&rid=giphy.gif&ct=s"/>
+<a href="#">
+<img align="right"  width = 200px src="https://media2.giphy.com/media/Y06jfuK1Bni5PkZwS2/giphy.gif?cid=ecf05e47shlo98va6as8vfj774wlrfo2sl704kckp105v95y&rid=giphy.gif&ct=s"/>
+</a>
 
 - 🤖 Technology student.
 
@@ -23,14 +25,15 @@
   
 - 📌 São Paulo - SP
   
-
+<a href="#">
 <h2> Social Networks <img width = 30px src="https://c.tenor.com/SNL9_xhZl9oAAAAi/waving-hand-joypixels.gif"/> </h2>
-
+</a>
 <a href = 'https://github.com/Rorschach616'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg"/></a> 
 <a href = ''> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg"/></a>
 
+<a href="#">
 <h2> Skills <img width = 25px src="https://camo.githubusercontent.com/beb64ff21c883e318e4f5db5231c2ba4175705bea1c9249e82a41ab375db4f75/68747470733a2f2f6d65646961322e67697068792e636f6d2f6d656469612f51737347456d706b79454f684243623765312f67697068792e6769663f6369643d656366303565343761306e336769316266716e74716d6f62386739616964316f796a327772336473336d67373030626c267269643d67697068792e676966"/> </h2>
-
+</a>
 
 <a href="#"> <img width = '75px' align= 'center' src="https://cdn.discordapp.com/attachments/576185389132415006/915771664527142952/icons8-java-unscreen.gif"/></a>
 <a href="#"> <img width = '50px' align= 'center' src="https://appmasters.io/static/mysql-logo-bab2c760c60f17191cb3a002e08a3dbf.png"/></a> 
@@ -45,11 +48,11 @@
 </div>
   
   ##
- 
+ <a href="#">
 <div> 
 
-  
- ![Snake animation](https://github.com/Rorschach616/Rorschach616/blob/output/github-contribution-grid-snake.svg)
  
-</div>
+ ![Snake animation](https://github.com/Rorschach616/Rorschach616/blob/output/github-contribution-grid-snake.svg)
 
+</div>
+</a>
