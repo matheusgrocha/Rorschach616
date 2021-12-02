@@ -38,6 +38,6 @@
  
 <div> 
  
- ![Snake animation](https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg)
+ ![Snake animation](https://github.com/Rorschach616/Rorschach616/blob/output/github-contribution-grid-snake.svg)
  
 </div>
