@@ -11,7 +11,7 @@
 </p>
 
 
-<img align="right"  width = 200px src="https://media2.giphy.com/media/Y06jfuK1Bni5PkZwS2/giphy.gif?cid=ecf05e47shlo98va6as8vfj774wlrfo2sl704kckp105v95y&rid=giphy.gif&ct=s"/>
+<img align="right" href="#" width = 200px src="https://media2.giphy.com/media/Y06jfuK1Bni5PkZwS2/giphy.gif?cid=ecf05e47shlo98va6as8vfj774wlrfo2sl704kckp105v95y&rid=giphy.gif&ct=s"/>
 
 - 🤖 Technology student.
 
