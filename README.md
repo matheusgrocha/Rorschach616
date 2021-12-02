@@ -1,7 +1,7 @@
-<a href="#">
+
 <h1> Greetings developer <img src = "https://c.tenor.com/Uq_-tDUQlJkAAAAi/hot-beverage-joypixels.gif" width = 75px> </h1>
 <p align='center'>
-</a>
+
 
   
   
