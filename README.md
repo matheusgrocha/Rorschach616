@@ -1,4 +1,4 @@
-<h1> Greetings developer <a href="#"><img src = "https://c.tenor.com/Uq_-tDUQlJkAAAAi/hot-beverage-joypixels.gif" width = 75px></a> </h1>
+<h1> Greetings, Developer! <a href="#"><img src = "https://c.tenor.com/Uq_-tDUQlJkAAAAi/hot-beverage-joypixels.gif" width = 75px></a> </h1>
 
 <div size='20px'> Hey there! Welcome to my GitHub, feel free to check out my repositories. 
 </div>  
