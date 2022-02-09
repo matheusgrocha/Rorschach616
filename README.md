@@ -11,7 +11,7 @@
 
 - 🤖 Technology student.
 
-- 🏫 Java Web Full Stack in training by Generation Brazil.
+- 🏫 Java Web Full Stack by Generation Brazil.
 
 - 👩🏾‍💻 IT technician graduated from Etec Jd Ângela
 
