@@ -23,6 +23,7 @@
 <h2> Social Networks <img width = 30px src="https://c.tenor.com/SNL9_xhZl9oAAAAi/waving-hand-joypixels.gif"/> </h2>
 </a>
 <a href = 'https://github.com/Rorschach616'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg"/></a> 
+&nbsp
 <a href = 'https://www.linkedin.com/in/matheusgomesrocha/'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg"/></a>
 
 <a href="#">
